@@ -1,2 +1,4 @@
 # WSZapp
-## Program generuje i wy�wietla wykresy
+## Program generuje, wyświetla oraz zapisuje wykresy różnych funkcji
+
+![alt text](https://github.com/marcinozog/WSZapp/blob/master/screen.png)
